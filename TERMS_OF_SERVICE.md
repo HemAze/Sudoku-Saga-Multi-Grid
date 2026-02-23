@@ -4,7 +4,7 @@
 
 ## 1. Acceptance of Terms
 
-Welcome to Sudoku Saga! These Terms of Service ("Terms") govern your access to and use of the Sudoku Saga mobile application (the "App"), developed and operated by Hemaze ("we," "us," or "our").
+Welcome to Sudoku Saga! These Terms of Service ("Terms") govern your access to and use of the Sudoku Saga mobile application (the "App"), developed and operated by HemAze ("we," "us," or "our").
 
 By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
@@ -110,7 +110,7 @@ The App and all its contents, features, and functionality (including but not lim
 - Text, puzzles, and content
 - Trademarks and branding
 
-are owned by Hemaze and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
+are owned by HemAze and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
 
 ### 6.2 Sudoku Puzzles
 
