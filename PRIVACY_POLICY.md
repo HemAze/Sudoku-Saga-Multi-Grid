@@ -1,6 +1,6 @@
 # Privacy Policy for Sudoku Saga
 
-**Last Updated: February 3, 2026**
+**Last Updated: March 13, 2026**
 
 ## Introduction
 
@@ -87,6 +87,15 @@ If you choose to watch rewarded ads for free hints, we use Google AdMob, which m
 - Usage data for ad personalization
 
 Google AdMob Privacy Policy: https://support.google.com/admob/answer/6128543
+
+### Unity Ads (Mediation Partner)
+We use Unity Ads as a mediation partner through Google AdMob. When Google AdMob does not have an ad to show, Unity Ads may serve an ad instead. Unity Ads may collect:
+- Advertising identifiers
+- Device information (device type, OS version, hardware specifications)
+- IP address (for general location and fraud prevention)
+- Ad interaction data
+
+Unity Ads Privacy Policy: https://unity.com/legal/privacy-policy
 
 ## Data Storage and Security
 
