@@ -1,6 +1,6 @@
 # Terms of Service for Sudoku Saga
 
-**Last Updated: February 3, 2026**
+**Last Updated: March 13, 2026**
 
 ## 1. Acceptance of Terms
 
@@ -92,7 +92,7 @@ The App may offer optional rewarded video advertisements that provide in-game be
 ### 5.2 Ad Content
 
 - We do not control the content of third-party advertisements
-- Ads are provided by Google AdMob and other advertising partners
+- Ads are provided by Google AdMob and its mediation partners, including Unity Ads
 - We are not responsible for the content, accuracy, or opinions expressed in advertisements
 
 ### 5.3 Optional Viewing
@@ -185,10 +185,11 @@ The App may contain links to third-party websites or services. We are not respon
 
 ### 9.2 Third-Party Terms
 
-Your use of third-party services (Google Play, RevenueCat, AdMob) is subject to their respective terms and conditions:
+Your use of third-party services (Google Play, RevenueCat, AdMob, Unity Ads) is subject to their respective terms and conditions:
 - Google Play Terms: https://play.google.com/about/play-terms/
 - RevenueCat Terms: https://www.revenuecat.com/terms
 - Google AdMob Terms: https://support.google.com/admob/answer/9128543
+- Unity Ads Terms: https://unity.com/legal/one-operate-services-terms-of-service
 
 ## 10. Updates and Modifications
 
@@ -292,4 +293,4 @@ BY USING SUDOKU SAGA, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVICE,
 ---
 
 **Effective Date**: February 3, 2026  
-**Version**: 1.0
+**Version**: 1.1.2
